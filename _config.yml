@@ -1,52 +1,41 @@
 # ============================================================
-# STEP 1: Your Identity (required)
+# STEP 1: Your Identity
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
-photo: headshot.jpg  # place your photo in images/
+name: "Jiebei Luo"
+title: "Assistant Professor"
+institution: "University of Oklahoma"
+email: jiebei.luo@ou.edu
+photo: ""
 
 # ============================================================
-# STEP 2: Your Links (optional -- delete any you don't use)
+# STEP 2: Your Links
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
+  google_scholar: ""
+  github: "https://github.com/hodge-lulu"
+  researchgate: ""
   orcid: ""
   twitter: ""
   linkedin: ""
-  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+  cv: ""
 
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a7a6d"      # theme color for links and buttons
-dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+accent_color: "#1a7a6d"
+dark_mode: true
+description: "Academic website of Jiebei Luo"
 baseurl: ""
-url: ""
+url: "https://hodge-lulu.github.io"
 
-# Google Analytics — paste your GA4 measurement ID, or leave blank
 analytics:
   google_id: ""
 
-# ============================================================
-# STEP 4: Choose Your Pages (comment out any you don't need)
-# ============================================================
-nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+# Additional pages will be added when their content is ready.
+nav_pages: []
 
 # ============================================================
-# Advanced Settings (you probably don't need to change these)
+# Advanced Settings
 # ============================================================
 include:
   - .htaccess
@@ -76,8 +65,8 @@ kramdown:
 plugins: ["jekyll/scholar", "jekyll-sitemap"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Luo
+  first_name: [Jiebei, J.]
   style: citesty
   locale: en
   source: /assets/
