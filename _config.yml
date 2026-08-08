@@ -22,7 +22,7 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#841617"
+accent_color: "#c44a2c"
 dark_mode: false
 description: "Academic website of Jiebei Luo"
 baseurl: ""
