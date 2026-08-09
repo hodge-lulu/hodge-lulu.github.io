@@ -26,7 +26,7 @@ accent_color: "#c44a2c"
 dark_mode: false
 description: "Academic website of Jiebei Luo"
 baseurl: ""
-url: "https://github.com/jiebei-luo"
+url: "https://jiebei-luo.github.io"
 
 analytics:
   google_id: ""
