@@ -12,7 +12,7 @@ photo: ""
 # ============================================================
 links:
   google_scholar: ""
-  github: "https://github.com/hodge-lulu"
+  github: "https://github.com/jiebei-luo"
   researchgate: ""
   orcid: ""
   twitter: ""
@@ -26,7 +26,7 @@ accent_color: "#c44a2c"
 dark_mode: false
 description: "Academic website of Jiebei Luo"
 baseurl: ""
-url: "https://hodge-lulu.github.io"
+url: "https://github.com/jiebei-luo"
 
 analytics:
   google_id: ""
